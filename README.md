@@ -26,5 +26,6 @@ Through this project, I got to explore:
 - How HTML, CSS, and JavaScript work together.
 - Learning through experimentation and hands-on practice.
 
+ ----
 
 *A journey of a thousand miles begins with a single step.*
